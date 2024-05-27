@@ -1,0 +1,3 @@
+[26-Sep-2023 11:54:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.29. in /home/gayatriinfotech/gayatri/vendor/composer/platform_check.php on line 24
+[26-Sep-2023 11:55:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.29. in /home/gayatriinfotech/gayatri/vendor/composer/platform_check.php on line 24
+[26-Sep-2023 11:55:24 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.29. in /home/gayatriinfotech/gayatri/vendor/composer/platform_check.php on line 24
